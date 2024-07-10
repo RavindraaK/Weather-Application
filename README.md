@@ -20,7 +20,7 @@ A simple Java console application to fetch and display weather information for a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/weatherapp.git
+git clone https://github.com/RavindraaK/Weather-Application.git
 cd weatherapp
 ```
 
